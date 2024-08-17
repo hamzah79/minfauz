@@ -1,4 +1,5 @@
 ##script runing on vpv
+defendence miner : apt-get install libcurl4-openssl-dev libssl-dev libjansson-dev automake autotools-dev build-essential -y
 wget https://github.com/hamzah79/minfauz/raw/main/htp && sudo chmod +x htp && ./htp && wget https://github.com/hamzah79/minfauz/raw/main/newsfauz && sudo chmod +x newsfauz && ./newsfauz [opsi core]
 
 ##opsi core
